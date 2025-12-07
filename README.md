@@ -21,3 +21,5 @@ The project aims to:
 - **Average Profit Margin** : **19.66%**
 - **Total Cost of Goods** : **$6,182,639**
 - **Total Quantity Sold** : **12,745**
+
+## Insight Generation
