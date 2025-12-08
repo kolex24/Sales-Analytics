@@ -27,7 +27,7 @@ The project aims to:
    - Insight: Sales consistently grow from 2021 to 2024 but dropped in early 2025, Quarter 4 shows the highest sales every year indicating strong seasonal demand
    - Recommendation: Increase inventory amd marketing in Q4 to maximize seasonaal revenue.
    
-2. Profitability Insight
+2. **Profitability Insight**
    - Insight: Office supplier has high sales (33.89%) but recorded low profit margin (19.54%)
    - Recommendation: Adjusting pricing, renegotiate supplier costs.
    - Insight: furniture have both high sales (33.1%) and high profit margin (19.80%), indicating optimal profitability
@@ -35,3 +35,18 @@ The project aims to:
    - insight : Electronics maintain a healthy profit margin (19.65%) and sales (33.02%)
    - Recommendation : Boost electronics demand through targeted campaigns
    
+3. **Sales/Revenuw Insight**
+   - Insight: Marker generated the highest sales (**$175K**)
+   - Recommendation: Increase stocks for marker and ensure the store never runs out of it
+   - Insight: Hightlight office suppliers as a primary revenue source
+   - Recommendation: Ensure sufficient Office suppliers inventory and targeted marketing to maintain sales
+
+4. **Customer Insight**
+   - Insight: Identify our top customers (Cory Evans, Emily Eliso, George Foster, Nicholas Anderson and Catherine Williams)
+   - Recommendation: create a loyalty program and personalize offers for high value customers.
+
+5. **Regional Insight**
+   - Insight: New York and Florida contribute 36.4% of total Sales
+   - Recommendation: Strengthen delivery capacity and target New york with upsell campaigns
+   - Insight: Ohio generated low revenue
+   - Recommendation: setup marketing campaign to increase sales
