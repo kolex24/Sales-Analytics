@@ -26,6 +26,7 @@ The project aims to:
 1. **Trend Insight**
    - Insight: Sales consistently grow from 2021 to 2024 but dropped in early 2025, Quarter 4 shows the highest sales every year indicating strong seasonal demand
    - Recommendation: Increase inventory amd marketing in Q4 to maximize seasonaal revenue.
+   
 2. **Profitability Insight**
    - Insight: Office supplier has high sales (33.89%) but recorded low profit margin (19.54%)
    - Recommendation: Adjusting pricing, renegotiate supplier costs.
@@ -33,3 +34,4 @@ The project aims to:
    - Recommendation: Increase stocks, run promotions and bundle high margin product
    - insight : Electronics maintain a healthy profit margin (19.65%) and sales (33.02%)
    - Recommendation : Boost electronics demand through targeted campaigns
+   
